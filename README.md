@@ -2,8 +2,7 @@
 Crash Site
 THIS IS SET UP FOR BORNHOLM. SO THE MARKER LOCATIONS NEED TO BE CHANGED FOR DIFFERENT MAP
 First i want to start by saying i am not very good at all this github stuff and setting it up so if its a little sketchy, im sorry.
-So i included a packed up pbo ready to be dropped into @epochhive\addons and the same pbo unpacked so you can edit some things to suit your needs
-then pack it up.
+So i included a packed up pbo set up for bornholm and ready to be dropped into @epochhive\addons and the same pbo unpacked so you can edit some things to suit your needs and make it work for different maps.
 
 WHAT THIS DOES
 This addon spawns heli crash sites randomly in a set circular radius. The size of the circle can be set to any size there for increasing the 
